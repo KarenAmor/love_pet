@@ -8,6 +8,7 @@
     "test": "start-server-and-test start http://localhost:3000 cypress:headless"
   },
   "dependencies": {
+    "install": "^0.13.0",
     "mongodb": "^4.8.1",
     "mongoose": "^6.6.0",
     "next": "latest",
